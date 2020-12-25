@@ -1,3 +1,0 @@
-C:/Users/Facu/Desktop/swembebidos/libreriadisplaylcdconproyecto/Embebidohuerta/cmake-build-debug/CMakeFiles/TestLCDi2c.elf.dir
-C:/Users/Facu/Desktop/swembebidos/libreriadisplaylcdconproyecto/Embebidohuerta/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Facu/Desktop/swembebidos/libreriadisplaylcdconproyecto/Embebidohuerta/cmake-build-debug/CMakeFiles/rebuild_cache.dir
